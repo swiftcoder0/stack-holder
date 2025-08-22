@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 CredIntel Analytics: Real-Time Explainable Credit Intelligence Platform
 🏆 Hackathon Project for CredTech Challenge
 Organized by The Programming Club, IITK | Powered by Deep Root Investments
@@ -50,3 +51,6 @@ Multi-company Comparison: Side-by-side issuer analysis
 Event Timeline: Visual representation of market events and impacts
 
 Alert System: Notifications for significant score changes
+=======
+
+>>>>>>> 8f2cea9b84a0d47adf8c60e3db36449ebd11e022
