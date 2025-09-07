@@ -1,9 +1,8 @@
-<<<<<<< HEAD
-CredIntel Analytics: Real-Time Explainable Credit Intelligence Platform
-🏆 Hackathon Project for CredTech Challenge
-Organized by The Programming Club, IITK | Powered by Deep Root Investments
 
-📋 Problem Statement
+CredIntel Analytics: Real-Time Explainable Credit Intelligence Platform
+l
+
+📋 Problem 
 Traditional credit rating agencies suffer from infrequent updates, opaque methodologies, and slow reaction times to market events. This project addresses these limitations by building a real-time, explainable credit intelligence platform that processes multiple data sources to generate dynamic creditworthiness assessments with transparent explanations.
 
 🎯 Solution Overview
