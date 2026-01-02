@@ -1,6 +1,6 @@
 
 CredIntel Analytics: Real-Time Explainable Credit Intelligence Platform
-l
+
 
 📋 Problem 
 Traditional credit rating agencies suffer from infrequent updates, opaque methodologies, and slow reaction times to market events. This project addresses these limitations by building a real-time, explainable credit intelligence platform that processes multiple data sources to generate dynamic creditworthiness assessments with transparent explanations.
@@ -50,6 +50,4 @@ Multi-company Comparison: Side-by-side issuer analysis
 Event Timeline: Visual representation of market events and impacts
 
 Alert System: Notifications for significant score changes
-=======
 
->>>>>>> 8f2cea9b84a0d47adf8c60e3db36449ebd11e022
